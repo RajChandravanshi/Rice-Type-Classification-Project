@@ -100,8 +100,6 @@ For each model:
 
 - Successfully implemented a complete pipeline for rice type classification using both **traditional ML** and **deep learning**.
 - **Stacking Classifier** and **ANNs** (Keras/PyTorch) demonstrated high accuracy.
-- The project provides a strong foundation for deploying scalable ML solutions in agriculture.
-
 ---
 
 > ⚡ _This project highlights how combining domain-specific features with machine learning can lead to accurate and interpretable models in real-world applications like crop classification._
